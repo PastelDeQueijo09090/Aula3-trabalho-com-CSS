@@ -12,7 +12,14 @@
         <br> <!--inserir quebra de linha-->
         <hr> <!--insere uma linha na horizontal-->
         
-        
+        <p style="font-size: 20px; text-aling: center; colour:#
+           F55772">A tag <strong>html</strong> é utilizada para
+            informar ao navegador que tipo de estrutura está sendo
+             construída, podendo ter <strong>títulos parágrafos,
+           imagens, links, entre outros</strong>.</p>
+
+           <p style="text-aling: right;ç font-size: 18px; color: red">
+            Existem
         
 
         <hr > <!--insere uma linha horizontal-->
